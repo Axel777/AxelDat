@@ -1,0 +1,39 @@
+{
+    
+        "Collections": [
+          {
+            "name": "Minimal",
+            "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+          },
+          {
+            "name": "Vector",
+            "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+          },
+          {
+            "name": "landscape",
+            "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+          },
+          {
+            "name": "Superhero",
+            "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+          }
+    ],
+
+    "Wallpapers": [
+        {
+            "name": "1",
+            "author": "Someone",
+            "url": "https://res.cloudinary.com/alex77x/image/upload/v1560672774/WallData/1_fbkdui.jpg",
+            "collections": "Minimal"
+    },
+    {
+        "name":"2",
+        "author" : "Someone",
+        "url" : "https://res.cloudinary.com/alex77x/image/upload/v1560672776/WallData/2_wbxiho.jpg",
+        "collections" :"Minimal"    }
+    ]
+}

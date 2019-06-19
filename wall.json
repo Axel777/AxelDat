@@ -26,13 +26,13 @@
     "Wallpapers": [
         {
             "name": "1",
-            //"author": "Someone",
+            
             "url": "https://res.cloudinary.com/alex77x/image/upload/v1560672774/WallData/1_fbkdui.jpg",
             "collections": "Minimal"
     },
         {
             "name":"2",
-            //"author" : "Someone",
+            
             "url" : "https://res.cloudinary.com/alex77x/image/upload/v1560672776/WallData/2_wbxiho.jpg",
             "collections" :"Minimal"    }
         ]

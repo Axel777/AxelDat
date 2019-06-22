@@ -17,7 +17,7 @@
             "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
           },
           {
-            "name": "Superhero",
+            "name": "Characters",
             "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
           }
@@ -29,11 +29,18 @@
             
             "url": "https://res.cloudinary.com/alex77x/image/upload/v1560958537/WallData/113_ygzsgl.jpg",
             "collections": "Minimal"
-    },
+        },
         {
             "name":"2",
             
             "url" : "https://res.cloudinary.com/alex77x/image/upload/v1560958537/WallData/100_yzey0y.png",
-            "collections" :"Minimal"    }
+            "collections" :"Minimal"    
+        },
+        {
+            "name":"3",
+            "url":"https://res.cloudinary.com/alex77x/image/upload/v1560958536/WallData/112_oknbdd.jpg"
+            "collections":"Characters"
+        }
+        
         ]
 }

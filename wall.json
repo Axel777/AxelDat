@@ -41,6 +41,11 @@
             "url":"https://res.cloudinary.com/alex77x/image/upload/v1560958536/WallData/112_oknbdd.jpg",
             "collections":"Characters"
             
+        },
+        {
+            "name" : "4",
+            "url":"https://res.cloudinary.com/alex77x/image/upload/v1560958531/WallData/103_e0ewlz.jpg",
+            "collections":"Minimal"
         }
         
         ]

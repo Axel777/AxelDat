@@ -24,29 +24,570 @@
     ],
 
     "Wallpapers": [
-        {
-            "name": "1",
-            
-            "url": "https://res.cloudinary.com/alex77x/image/upload/v1560958537/WallData/113_ygzsgl.jpg",
-            "collections": "Minimal"
-        },
-        {
-            "name":"2",
-            
-            "url" : "https://res.cloudinary.com/alex77x/image/upload/v1560958537/WallData/100_yzey0y.png",
-            "collections" :"Minimal"    
-        },
-        {
-            "name":"3",
-            "url":"https://res.cloudinary.com/alex77x/image/upload/v1560958536/WallData/112_oknbdd.jpg",
-            "collections":"Characters"
-            
-        },
-        {
-            "name" : "4",
-            "url":"https://res.cloudinary.com/alex77x/image/upload/v1560958531/WallData/103_e0ewlz.jpg",
-            "collections":"Minimal"
-        }
-        
-        ]
+  {
+    "name": "1",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958482/WallData/1_wwlfam.png",
+    "collections": ""
+  },
+  {
+    "name": "2",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958484/WallData/2_d8h30v.jpg",
+    "collections": ""
+  },
+  {
+    "name": "3",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958485/WallData/3_huv7k6.jpg",
+    "collections": ""
+  },
+  {
+    "name": "4",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958483/WallData/4_cs1cur.jpg",
+    "collections": ""
+  },
+  {
+    "name": "5",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958486/WallData/5_pxekde.jpg",
+    "collections": ""
+  },
+  {
+    "name": "6",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958484/WallData/6_hs0s1z.jpg",
+    "collections": ""
+  },
+  {
+    "name": "7",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958484/WallData/7_vziw4a.jpg",
+    "collections": ""
+  },
+  {
+    "name": "8",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958487/WallData/8_t32hcx.jpg",
+    "collections": ""
+  },
+  {
+    "name": "9",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958489/WallData/9_wsnkyk.jpg",
+    "collections": ""
+  },
+  {
+    "name": "10",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958488/WallData/10_us7ggy.jpg",
+    "collections": ""
+  },
+  {
+    "name": "11",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958486/WallData/11_mdtsw3.jpg",
+    "collections": ""
+  },
+  {
+    "name": "12",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958492/WallData/12_qzbecs.jpg",
+    "collections": ""
+  },
+  {
+    "name": "13",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958491/WallData/13_obd6to.png",
+    "collections": ""
+  },
+  {
+    "name": "14",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958495/WallData/14_bqr124.jpg",
+    "collections": ""
+  },
+  {
+    "name": "15",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958494/WallData/15_bpewjd.jpg",
+    "collections": ""
+  },
+  {
+    "name": "16",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958491/WallData/16_vmqo8j.jpg",
+    "collections": ""
+  },
+  {
+    "name": "17",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958492/WallData/17_ytyfke.jpg",
+    "collections": ""
+  },
+  {
+    "name": "18",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958493/WallData/18_unux7w.png",
+    "collections": ""
+  },
+  {
+    "name": "19",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958494/WallData/19_usjk0b.jpg",
+    "collections": ""
+  },
+  {
+    "name": "20",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958496/WallData/20_jc0vpv.jpg",
+    "collections": ""
+  },
+  {
+    "name": "21",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958493/WallData/21_bnjyir.jpg",
+    "collections": ""
+  },
+  {
+    "name": "22",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958498/WallData/22_ie5pco.png",
+    "collections": ""
+  },
+  {
+    "name": "23",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958494/WallData/23_pnwsbo.jpg",
+    "collections": ""
+  },
+  {
+    "name": "24",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958495/WallData/24_iil0gf.jpg",
+    "collections": ""
+  },
+  {
+    "name": "25",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958496/WallData/25_yxgytp.jpg",
+    "collections": ""
+  },
+  {
+    "name": "26",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958496/WallData/26_yubtai.jpg",
+    "collections": ""
+  },
+  {
+    "name": "27",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958498/WallData/27_fu94dq.jpg",
+    "collections": ""
+  },
+  {
+    "name": "28",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958499/WallData/28_b87qva.jpg",
+    "collections": ""
+  },
+  {
+    "name": "29",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958500/WallData/29_lqfadb.jpg",
+    "collections": ""
+  },
+  {
+    "name": "30",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958502/WallData/30_otpzks.jpg",
+    "collections": ""
+  },
+  {
+    "name": "31",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958500/WallData/31_sl41rh.jpg",
+    "collections": ""
+  },
+  {
+    "name": "32",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958504/WallData/32_jto9d1.jpg",
+    "collections": ""
+  },
+  {
+    "name": "33",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958514/WallData/33_zpizil.png",
+    "collections": ""
+  },
+  {
+    "name": "34",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958505/WallData/34_xasjy0.jpg",
+    "collections": ""
+  },
+  {
+    "name": "35",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958503/WallData/35_nhwn22.jpg",
+    "collections": ""
+  },
+  {
+    "name": "36",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958503/WallData/36_ozaf8s.jpg",
+    "collections": ""
+  },
+  {
+    "name": "37",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958507/WallData/37_r2m4rj.jpg",
+    "collections": ""
+  },
+  {
+    "name": "38",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958504/WallData/38_rowl21.jpg",
+    "collections": ""
+  },
+  {
+    "name": "39",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958512/WallData/39_rgx4tg.png",
+    "collections": ""
+  },
+  {
+    "name": "40",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958506/WallData/40_knl13b.jpg",
+    "collections": ""
+  },
+  {
+    "name": "41",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958508/WallData/41_vkv1sk.jpg",
+    "collections": ""
+  },
+  {
+    "name": "42",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958506/WallData/42_cnpgpl.jpg",
+    "collections": ""
+  },
+  {
+    "name": "43",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958511/WallData/43_ajezpj.jpg",
+    "collections": ""
+  },
+  {
+    "name": "44",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958514/WallData/44_ibkq45.jpg",
+    "collections": ""
+  },
+  {
+    "name": "45",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958511/WallData/45_i9fdmn.jpg",
+    "collections": ""
+  },
+  {
+    "name": "46",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958517/WallData/46_o0letl.jpg",
+    "collections": ""
+  },
+  {
+    "name": "47",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958514/WallData/47_gxx3jm.jpg",
+    "collections": ""
+  },
+  {
+    "name": "48",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958520/WallData/48_ouvuq6.png",
+    "collections": ""
+  },
+  {
+    "name": "49",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958519/WallData/49_n0abxg.jpg",
+    "collections": ""
+  },
+  {
+    "name": "50",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958520/WallData/50_agvejo.png",
+    "collections": ""
+  },
+  {
+    "name": "51",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958517/WallData/51_asqfov.jpg",
+    "collections": ""
+  },
+  {
+    "name": "52",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958518/WallData/52_tvtunl.jpg",
+    "collections": ""
+  },
+  {
+    "name": "53",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958519/WallData/53_scsvea.jpg",
+    "collections": ""
+  },
+  {
+    "name": "54",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958519/WallData/54_tturu4.jpg",
+    "collections": ""
+  },
+  {
+    "name": "55",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958485/WallData/55_zydblp.jpg",
+    "collections": ""
+  },
+  {
+    "name": "56",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958482/WallData/56_mmb3ne.jpg",
+    "collections": ""
+  },
+  {
+    "name": "57",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958481/WallData/57_snourg.jpg",
+    "collections": ""
+  },
+  {
+    "name": "58",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958483/WallData/58_txqgx8.jpg",
+    "collections": ""
+  },
+  {
+    "name": "59",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958483/WallData/59_i6fl28.jpg",
+    "collections": ""
+  },
+  {
+    "name": "60",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958491/WallData/60_yieyrg.jpg",
+    "collections": ""
+  },
+  {
+    "name": "61",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958487/WallData/61_w2yldy.jpg",
+    "collections": ""
+  },
+  {
+    "name": "62",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958488/WallData/62_qjpjhg.jpg",
+    "collections": ""
+  },
+  {
+    "name": "63",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958489/WallData/63_ifg4rp.jpg",
+    "collections": ""
+  },
+  {
+    "name": "64",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958501/WallData/64_mg9lao.jpg",
+    "collections": ""
+  },
+  {
+    "name": "65",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958489/WallData/65_jy9up5.jpg",
+    "collections": ""
+  },
+  {
+    "name": "66",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958497/WallData/66_hrocwq.jpg",
+    "collections": ""
+  },
+  {
+    "name": "67",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958502/WallData/67_llpjyz.png",
+    "collections": ""
+  },
+  {
+    "name": "68",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958497/WallData/68_teimog.jpg",
+    "collections": ""
+  },
+  {
+    "name": "69",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958500/WallData/69_ffm1lx.png",
+    "collections": ""
+  },
+  {
+    "name": "70",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958503/WallData/70_xa21s1.jpg",
+    "collections": ""
+  },
+  {
+    "name": "71",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958507/WallData/71_l1shrp.jpg",
+    "collections": ""
+  },
+  {
+    "name": "72",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958511/WallData/72_hoxqaa.jpg",
+    "collections": ""
+  },
+  {
+    "name": "73",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958506/WallData/73_cpgw16.jpg",
+    "collections": ""
+  },
+  {
+    "name": "74",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958511/WallData/74_hrvvla.jpg",
+    "collections": ""
+  },
+  {
+    "name": "75",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958510/WallData/75_ipeag8.jpg",
+    "collections": ""
+  },
+  {
+    "name": "76",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958514/WallData/76_zhytbl.jpg",
+    "collections": ""
+  },
+  {
+    "name": "77",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958518/WallData/77_km9jp8.jpg",
+    "collections": ""
+  },
+  {
+    "name": "78",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958520/WallData/78_ismy7y.jpg",
+    "collections": ""
+  },
+  {
+    "name": "79",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958520/WallData/79_d4jyfx.jpg",
+    "collections": ""
+  },
+  {
+    "name": "80",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958520/WallData/80_ky5sfg.jpg",
+    "collections": ""
+  },
+  {
+    "name": "81",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958521/WallData/81_qpgdjj.jpg",
+    "collections": ""
+  },
+  {
+    "name": "82",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958530/WallData/82_nztqgo.png",
+    "collections": ""
+  },
+  {
+    "name": "83",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958524/WallData/83_he1dbm.jpg",
+    "collections": ""
+  },
+  {
+    "name": "84",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958527/WallData/84_l5tkut.jpg",
+    "collections": ""
+  },
+  {
+    "name": "85",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958522/WallData/85_hlsnew.jpg",
+    "collections": ""
+  },
+  {
+    "name": "86",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958526/WallData/86_i8l8v8.jpg",
+    "collections": ""
+  },
+  {
+    "name": "87",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958522/WallData/87_guihat.jpg",
+    "collections": ""
+  },
+  {
+    "name": "88",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958522/WallData/88_hihywd.jpg",
+    "collections": ""
+  },
+  {
+    "name": "89",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958525/WallData/89_tozcpl.jpg",
+    "collections": ""
+  },
+  {
+    "name": "90",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958524/WallData/90_hebmkm.jpg",
+    "collections": ""
+  },
+  {
+    "name": "91",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958523/WallData/91_jihiwm.jpg",
+    "collections": ""
+  },
+  {
+    "name": "92",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958525/WallData/92_f4ljau.jpg",
+    "collections": ""
+  },
+  {
+    "name": "93",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958526/WallData/93_w0tu8y.jpg",
+    "collections": ""
+  },
+  {
+    "name": "94",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958526/WallData/94_raqmmp.jpg",
+    "collections": ""
+  },
+  {
+    "name": "95",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958526/WallData/95_z0xp9t.jpg",
+    "collections": ""
+  },
+  {
+    "name": "96",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958528/WallData/96_jycuq2.jpg",
+    "collections": ""
+  },
+  {
+    "name": "97",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958527/WallData/97_hh1o5p.jpg",
+    "collections": ""
+  },
+  {
+    "name": "98",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958529/WallData/98_xxqoth.jpg",
+    "collections": ""
+  },
+  {
+    "name": "99",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958527/WallData/99_fiszao.jpg",
+    "collections": ""
+  },
+  {
+    "name": "100",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958537/WallData/100_yzey0y.png",
+    "collections": ""
+  },
+  {
+    "name": "101",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958528/WallData/101_md9glm.jpg",
+    "collections": ""
+  },
+  {
+    "name": "102",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958533/WallData/102_zlvhva.png",
+    "collections": ""
+  },
+  {
+    "name": "103",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958531/WallData/103_e0ewlz.jpg",
+    "collections": ""
+  },
+  {
+    "name": "104",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958530/WallData/104_gd2lfv.jpg",
+    "collections": ""
+  },
+  {
+    "name": "105",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958538/WallData/105_rgefzm.png",
+    "collections": ""
+  },
+  {
+    "name": "106",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958533/WallData/106_gnl4ch.jpg",
+    "collections": ""
+  },
+  {
+    "name": "107",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958533/WallData/107_ujgube.jpg",
+    "collections": ""
+  },
+  {
+    "name": "108",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958535/WallData/108_jmno1z.png",
+    "collections": ""
+  },
+  {
+    "name": "109",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958534/WallData/109_ttlvqk.jpg",
+    "collections": ""
+  },
+  {
+    "name": "110",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958535/WallData/110_ftx171.jpg",
+    "collections": ""
+  },
+  {
+    "name": "111",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958535/WallData/111_cxok93.png",
+    "collections": ""
+  },
+  {
+    "name": "112",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958536/WallData/112_oknbdd.jpg",
+    "collections": ""
+  },
+  {
+    "name": "113",
+    "url": "http://res.cloudinary.com/alex77x/image/upload/v1560958537/WallData/113_ygzsgl.jpg",
+    "collections": ""
+  }
+]
 }
